@@ -1,6 +1,6 @@
 ---
 layout: post
-title: install markdown
+title: markdown english
 ---
 
 GitHub Flavored Markdown
