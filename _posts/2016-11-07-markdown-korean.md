@@ -12,7 +12,7 @@ Let's get the whole "linebreak" thing out of the way. The next paragraph contain
 
 Roses are red
 Violets are blue
-텍스트를 실행한
+텍스트를 실행한-
 
 The next paragraph has the same phrases, but now they are separated by two spaces and a newline character:
 
