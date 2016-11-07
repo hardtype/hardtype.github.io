@@ -15,7 +15,7 @@ MarkdownEditing를 입력하여 MarkdownEditing이 검색되면 선택한 후, �
 - 아이템
 - 계속
 - 작성
-1. 숫자
+1. 숫자 yy
 2. 하위
     **문단**처럼
 3. 띄어쓰기
