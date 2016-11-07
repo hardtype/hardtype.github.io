@@ -4,6 +4,11 @@
 
 # hardtype - editing
 encoding:     "utf-8"
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
 
 # Name of your site (displayed in the header)
 name: hardtype page testing
