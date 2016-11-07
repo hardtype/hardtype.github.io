@@ -1,3 +1,8 @@
+---
+layout: post
+title: install markdown
+---
+
 # MarkdownEditing 설치
 ## MarkdownEditing 설치
 ### MarkdownEditing 설치
