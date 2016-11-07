@@ -1,3 +1,8 @@
+---
+layout: post
+title: install markdown
+---
+
 GitHub Flavored Markdown
 ================================
 
